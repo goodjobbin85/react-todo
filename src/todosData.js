@@ -1,5 +1,4 @@
-
-const TodosData = [
+const todosData = [
     {
         id: 1,
         text: "Take out the trash",
@@ -25,6 +24,6 @@ const TodosData = [
         text: "Catch up on Arrested Development",
         completed: false
     }
-]
+] 
 
-export default TodosData
+export default todosData
